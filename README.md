@@ -14,6 +14,17 @@
 
 ---
 
+## 📸 Ảnh chụp kết quả thực hành
+
+### 1. Bảng màu đơn tông Blue (#00ADEE) - Trang chính `index.html`
+![Monochromatic Blue](screenshot_result.png)
+
+### 2. Bảng màu đơn tông Emerald Green (#10B981) - Bước 8 `index-alternate.html`
+![Monochromatic Emerald](screenshot_alternate.png)
+
+
+---
+
 ## 🎨 Bảng màu đơn tông chính (Logo Blue - #00ADEE)
 
 Màu gốc lấy từ màu xanh logo (#00ADEE) làm màu bậc 1, sau đó giảm dần độ đậm để tạo ra dải màu đơn tông:
